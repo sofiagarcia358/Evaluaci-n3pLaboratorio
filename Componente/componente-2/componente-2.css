@@ -1,0 +1,9 @@
+.div-comp2{
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+}
+.div-comp2 ul{
+    padding: 2rem;
+}
